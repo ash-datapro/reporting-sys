@@ -1,10 +1,16 @@
 # Student Success Analytics & Reporting Pipeline
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=databricks\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![IPEDS](https://img.shields.io/badge/Data_Source-IPEDS-1F4E79?style=for-the-badge)
+<h1 align="center">Student Success Analytics & Reporting Pipeline</h1>
+
+<h1 align="center">Student Success Analytics & Reporting Pipeline</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNNjAgMGg4djMwaC04eiIvPjxwYXRoIGQ9Ik02MCA5OGg4djMwaC04eiIvPjxwYXRoIGQ9Ik0wIDYwaDMwdjhIMHoiLz48cGF0aCBkPSJNOTggNjBoMzB2OGgtMzB6Ii8+PHBhdGggZD0iTTYwIDQ0aDh2MTZoMTZ2OGgtMTZ2MTZoLTh2LTE2SDQ0di04aDE2eiIvPjxwYXRoIGQ9Ik02MiAxOGg0djE0aC00eiIvPjxwYXRoIGQ9Ik02MiA5Nmg0djE0aC00eiIvPjxwYXRoIGQ9Ik0xOCA2MmgxNHY0SDE4eiIvPjxwYXRoIGQ9Ik05NiA2MmgxNHY0SDk2eiIvPjxwYXRoIGQ9Ik0zNCAzNGg2djZIMzR6Ii8+PHBhdGggZD0iTTg4IDM0aDZ2NmgtNnoiLz48cGF0aCBkPSJNMzQgODhoNnY2SDM0eiIvPjxwYXRoIGQ9Ik04OCA4OGg2djZoLTZ6Ii8+PC9nPjwvc3ZnPg==" alt="Tableau">
+  <img src="https://img.shields.io/badge/Data_Source-IPEDS-1F4E79?style=flat-square" alt="IPEDS">
+</p>
 
 A reproducible higher-education reporting system built with **R, PostgreSQL/SQL, and Tableau** to transform public NCES/IPEDS reporting data into validated metrics, executive-facing dashboards, quality-assurance scorecards, and a stakeholder-ready reporting brief.
 
