@@ -1,7 +1,3 @@
-# Student Success Analytics & Reporting Pipeline
-
-<h1 align="center">Student Success Analytics & Reporting Pipeline</h1>
-
 <h1 align="center">Student Success Analytics & Reporting Pipeline</h1>
 
 <p align="center">
