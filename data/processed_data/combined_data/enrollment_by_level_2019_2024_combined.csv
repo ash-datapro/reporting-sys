@@ -1,0 +1,81 @@
+Year,Level of institution,Distance education status of student,Total Undergraduate,Total Graduate,Public Undergraduate,Public Graduate,Private Nonprofit Undergraduate,Private Nonprofit Graduate,Private For-profit Undergraduate,Private For-profit Graduate
+19-20,All students,All students,22201771,3890015,17187206,1838291,3380621,1687116,1633944,364608
+19-20,All students,Enrolled exclusively in distance education courses,4279986,1444823,2770058,555781,764262,571808,745666,317234
+19-20,All students,"Enrolled in at least one, but not all, distance education courses",6809767,688968,5927752,343189,697180,321933,184835,23846
+19-20,All students,Not enrolled in any distance education courses,11112018,1756224,8489396,939321,1919179,793375,703443,23528
+19-20,4-year,All students,13678861,3890015,9401281,1838291,3296196,1687116,981384,364608
+19-20,4-year,Enrolled exclusively in distance education courses,2716291,1444823,1262713,555781,732603,571808,720975,317234
+19-20,4-year,"Enrolled in at least one, but not all, distance education courses",4479390,688968,3656177,343189,688244,321933,134969,23846
+19-20,4-year,Not enrolled in any distance education courses,6483180,1756224,4482391,939321,1875349,793375,125440,23528
+19-20,2-year,All students,8093793,0,7701143,0,72716,0,319934,0
+19-20,2-year,Enrolled exclusively in distance education courses,1560391,0,1505322,0,31613,0,23456,0
+19-20,2-year,"Enrolled in at least one, but not all, distance education courses",2314620,0,2267893,0,8643,0,38084,0
+19-20,2-year,Not enrolled in any distance education courses,4218782,0,3927928,0,32460,0,258394,0
+19-20,Less-than-2-year,All students,429117,0,84782,0,11709,0,332626,0
+19-20,Less-than-2-year,Enrolled exclusively in distance education courses,3304,0,2023,0,46,0,1235,0
+19-20,Less-than-2-year,"Enrolled in at least one, but not all, distance education courses",15757,0,3682,0,293,0,11782,0
+19-20,Less-than-2-year,Not enrolled in any distance education courses,410056,0,79077,0,11370,0,319609,0
+20-21,All students,All students,21362185,3986944,16336348,1903855,3308591,1722102,1717246,360987
+20-21,All students,Enrolled exclusively in distance education courses,9275623,2095928,7307567,914604,1135218,859375,832838,321949
+20-21,All students,"Enrolled in at least one, but not all, distance education courses",7450675,1045136,5913945,573789,1290538,447918,246192,23429
+20-21,All students,Not enrolled in any distance education courses,4635887,845880,3114836,415462,882835,414809,638216,15609
+20-21,4-year,All students,13437879,3986939,9205479,1903855,3228198,1722097,1004202,360987
+20-21,4-year,Enrolled exclusively in distance education courses,5786307,2095928,3900773,914604,1100702,859375,784832,321949
+20-21,4-year,"Enrolled in at least one, but not all, distance education courses",5385659,1045136,3969888,573789,1278794,447918,136977,23429
+20-21,4-year,Not enrolled in any distance education courses,2265913,845875,1334818,415462,848702,414804,82393,15609
+20-21,2-year,All students,7464663,5,7044802,0,68033,5,351828,0
+20-21,2-year,Enrolled exclusively in distance education courses,3481593,0,3406193,0,33723,0,41677,0
+20-21,2-year,"Enrolled in at least one, but not all, distance education courses",2034828,0,1942249,0,11069,0,81510,0
+20-21,2-year,Not enrolled in any distance education courses,1948242,5,1696360,0,23241,5,228641,0
+20-21,Less-than-2-year,All students,459643,0,86067,0,12360,0,361216,0
+20-21,Less-than-2-year,Enrolled exclusively in distance education courses,7723,0,601,0,793,0,6329,0
+20-21,Less-than-2-year,"Enrolled in at least one, but not all, distance education courses",30188,0,1808,0,675,0,27705,0
+20-21,Less-than-2-year,Not enrolled in any distance education courses,421732,0,83658,0,10892,0,327182,0
+21-22,All students,All students,20885402,4023762,15895006,1949767,3327611,1726837,1662785,347158
+21-22,All students,Enrolled exclusively in distance education courses,6286281,1747272,4652014,741077,876061,701611,758206,304584
+21-22,All students,"Enrolled in at least one, but not all, distance education courses",7975139,954567,6731183,526469,980546,402754,263410,25344
+21-22,All students,Not enrolled in any distance education courses,6623982,1321923,4511809,682221,1471004,622472,641169,17230
+21-22,4-year,All students,13309020,4023762,9104535,1949767,3252875,1726837,951610,347158
+21-22,4-year,Enrolled exclusively in distance education courses,3565940,1747272,2009158,741077,842859,701611,713923,304584
+21-22,4-year,"Enrolled in at least one, but not all, distance education courses",5852244,954567,4722051,526469,972270,402754,157923,25344
+21-22,4-year,Not enrolled in any distance education courses,3890836,1321923,2373326,682221,1437746,622472,79764,17230
+21-22,2-year,All students,7110118,0,6703801,0,62799,0,343518,0
+21-22,2-year,Enrolled exclusively in distance education courses,2715569,0,2641390,0,32047,0,42132,0
+21-22,2-year,"Enrolled in at least one, but not all, distance education courses",2095705,0,2007858,0,7934,0,79913,0
+21-22,2-year,Not enrolled in any distance education courses,2298844,0,2054553,0,22818,0,221473,0
+21-22,Less-than-2-year,All students,466264,0,86670,0,11937,0,367657,0
+21-22,Less-than-2-year,Enrolled exclusively in distance education courses,4772,0,1466,0,1155,0,2151,0
+21-22,Less-than-2-year,"Enrolled in at least one, but not all, distance education courses",27190,0,1274,0,342,0,25574,0
+21-22,Less-than-2-year,Not enrolled in any distance education courses,434302,0,83930,0,10440,0,339932,0
+22-23,All students,All students,20937068,3999329,15914796,1940002,3371677,1716577,1650595,342750
+22-23,All students,Enrolled exclusively in distance education courses,5763235,1682930,4074522,706223,934784,676600,753929,300107
+22-23,All students,"Enrolled in at least one, but not all, distance education courses",7636403,870234,6479650,459692,867687,384634,289066,25908
+22-23,All students,Not enrolled in any distance education courses,7537430,1446165,5360624,774087,1569206,655343,607600,16735
+22-23,4-year,All students,13535091,3999329,9277782,1940002,3295204,1716577,962105,342750
+22-23,4-year,Enrolled exclusively in distance education courses,3479977,1682930,1856128,706223,897904,676600,725945,300107
+22-23,4-year,"Enrolled in at least one, but not all, distance education courses",5477402,870234,4455707,459692,857819,384634,163876,25908
+22-23,4-year,Not enrolled in any distance education courses,4577712,1446165,2965947,774087,1539481,655343,72284,16735
+22-23,2-year,All students,6940557,0,6546260,0,65076,0,329221,0
+22-23,2-year,Enrolled exclusively in distance education courses,2278171,0,2217390,0,35499,0,25282,0
+22-23,2-year,"Enrolled in at least one, but not all, distance education courses",2132696,0,2021423,0,9346,0,101927,0
+22-23,2-year,Not enrolled in any distance education courses,2529690,0,2307447,0,20231,0,202012,0
+22-23,Less-than-2-year,All students,461420,0,90754,0,11397,0,359269,0
+22-23,Less-than-2-year,Enrolled exclusively in distance education courses,5087,0,1004,0,1381,0,2702,0
+22-23,Less-than-2-year,"Enrolled in at least one, but not all, distance education courses",26305,0,2520,0,522,0,23263,0
+22-23,Less-than-2-year,Not enrolled in any distance education courses,430028,0,87230,0,9494,0,333304,0
+23-24,All students,All students,21611250,4059218,16466176,1955759,3440159,1746623,1704915,356836
+23-24,All students,Enrolled exclusively in distance education courses,5887127,1737891,4122962,723204,983922,702727,780243,311960
+23-24,All students,"Enrolled in at least one, but not all, distance education courses",7858227,867484,6720532,445149,839267,395814,298428,26521
+23-24,All students,Not enrolled in any distance education courses,7865896,1453843,5622682,787406,1616970,648082,626244,18355
+23-24,4-year,All students,14213314,4059218,9866434,1955759,3353741,1746623,993139,356836
+23-24,4-year,Enrolled exclusively in distance education courses,3737980,1737891,2048157,723204,941014,702727,748809,311960
+23-24,4-year,"Enrolled in at least one, but not all, distance education courses",5651536,867484,4649234,445149,830470,395814,171832,26521
+23-24,4-year,Not enrolled in any distance education courses,4823798,1453843,3169043,787406,1582257,648082,72498,18355
+23-24,2-year,All students,6913499,0,6502611,0,73704,0,337184,0
+23-24,2-year,Enrolled exclusively in distance education courses,2145184,0,2074172,0,42252,0,28760,0
+23-24,2-year,"Enrolled in at least one, but not all, distance education courses",2180439,0,2070804,0,8316,0,101319,0
+23-24,2-year,Not enrolled in any distance education courses,2587876,0,2357635,0,23136,0,207105,0
+23-24,Less-than-2-year,All students,484437,0,97131,0,12714,0,374592,0
+23-24,Less-than-2-year,Enrolled exclusively in distance education courses,3963,0,633,0,656,0,2674,0
+23-24,Less-than-2-year,"Enrolled in at least one, but not all, distance education courses",26252,0,494,0,481,0,25277,0
+23-24,Less-than-2-year,Not enrolled in any distance education courses,454222,0,96004,0,11577,0,346641,0

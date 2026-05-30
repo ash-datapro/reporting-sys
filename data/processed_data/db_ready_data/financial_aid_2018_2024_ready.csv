@@ -1,0 +1,127 @@
+year,level_of_institution,type_of_aid_awarded,family_income_level,public_average_cost_of_attendance,public_average_grant_scholarship_aid,public_net_price,private_nonprofit_average_cost_of_attendance,private_nonprofit_average_grant_scholarship_aid,private_nonprofit_net_price,private_for_profit_average_cost_of_attendance,private_for_profit_average_grant_scholarship_aid,private_for_profit_net_price
+18-19,4-year,Students awarded any grant aid,All family income levels,20396,7787,12609,42543,19594,22949,29819,6714,23105
+18-19,4-year,Students awarded Title IV aid,All family income levels,20495,7549,12946,42721,20302,22419,29763,6221,23542
+18-19,4-year,Students awarded Title IV aid,"$0-30,000",20495,10865,9630,42721,24965,17756,29763,7332,22431
+18-19,4-year,Students awarded Title IV aid,"$30,001-48,000",20495,9816,10678,42721,25119,17601,29763,6984,22779
+18-19,4-year,Students awarded Title IV aid,"$48,001-75,000",20495,6915,13580,42721,22901,19820,29763,5649,24115
+18-19,4-year,Students awarded Title IV aid,"$75,001-110,000",20495,3854,16641,42721,20544,22177,29763,3502,26261
+18-19,4-year,Students awarded Title IV aid,"$110,001 and more",20495,2382,18112,42721,17047,25674,29763,3309,26454
+18-19,2-year,Students awarded any grant aid,All family income levels,12928,5441,7488,26539,7166,19373,26823,5859,20964
+18-19,2-year,Students awarded Title IV aid,All family income levels,13040,5768,7272,26508,6759,19750,26637,5254,21383
+18-19,2-year,Students awarded Title IV aid,"$0-30,000",13040,6854,6186,26508,8318,18190,26637,6095,20542
+18-19,2-year,Students awarded Title IV aid,"$30,001-48,000",13040,6197,6843,26508,7686,18822,26637,5452,21185
+18-19,2-year,Students awarded Title IV aid,"$48,001-75,000",13040,4146,8894,26508,6518,19990,26637,3640,22997
+18-19,2-year,Students awarded Title IV aid,"$75,001-110,000",13040,2045,10995,26508,4472,22036,26637,1408,25229
+18-19,2-year,Students awarded Title IV aid,"$110,001 and more",13040,1026,12015,26508,2733,23775,26637,904,25733
+18-19,Less-than-2-year,Students awarded any grant aid,All family income levels,17221,5241,11980,26362,4349,22014,33568,5824,27744
+18-19,Less-than-2-year,Students awarded Title IV aid,All family income levels,17547,5003,12544,26400,3377,23023,31572,5378,26194
+18-19,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",17547,5774,11773,26400,4760,21640,31572,5979,25593
+18-19,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",17547,4754,12793,26400,2723,23677,31572,4968,26605
+18-19,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",17547,3944,13603,26400,2206,24193,31572,3918,27654
+18-19,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",17547,2669,14877,26400,,,31572,1317,30255
+18-19,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",17547,42,17505,26400,,,31572,1012,30560
+19-20,4-year,Students awarded any grant aid,All family income levels,20682,7889,12793,43708,20382,23326,30697,6911,23786
+19-20,4-year,Students awarded Title IV aid,All family income levels,20791,7775,13016,43999,21194,22805,30497,6412,24085
+19-20,4-year,Students awarded Title IV aid,"$0-30,000",20791,11202,9589,43999,26177,17822,30497,7732,22766
+19-20,4-year,Students awarded Title IV aid,"$30,001-48,000",20791,10092,10699,43999,26087,17913,30497,6959,23539
+19-20,4-year,Students awarded Title IV aid,"$48,001-75,000",20791,7169,13622,43999,23828,20172,30497,5675,24823
+19-20,4-year,Students awarded Title IV aid,"$75,001-110,000",20791,4135,16656,43999,21413,22586,30497,3666,26831
+19-20,4-year,Students awarded Title IV aid,"$110,001 and more",20791,2565,18226,43999,17809,26190,30497,3362,27135
+19-20,2-year,Students awarded any grant aid,All family income levels,13269,5547,7722,26648,7137,19511,27110,6008,21102
+19-20,2-year,Students awarded Title IV aid,All family income levels,13404,5974,7430,26650,6812,19839,27035,5332,21703
+19-20,2-year,Students awarded Title IV aid,"$0-30,000",13404,7085,6319,26650,8465,18185,27035,6329,20706
+19-20,2-year,Students awarded Title IV aid,"$30,001-48,000",13404,6457,6947,26650,8350,18300,27035,5536,21500
+19-20,2-year,Students awarded Title IV aid,"$48,001-75,000",13404,4445,8958,26650,6483,20168,27035,3843,23193
+19-20,2-year,Students awarded Title IV aid,"$75,001-110,000",13404,2384,11020,26650,4633,22018,27035,1071,25964
+19-20,2-year,Students awarded Title IV aid,"$110,001 and more",13404,1255,12149,26650,3049,23601,27035,498,26537
+19-20,Less-than-2-year,Students awarded any grant aid,All family income levels,19725,5434,14290,25547,4609,20938,31937,6271,25666
+19-20,Less-than-2-year,Students awarded Title IV aid,All family income levels,20302,5103,15200,25022,4751,20271,32154,5849,26305
+19-20,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",20302,5314,14988,25022,6959,18063,32154,6550,25605
+19-20,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",20302,5392,14911,25022,3167,21855,32154,7202,24952
+19-20,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",20302,3710,16592,25022,3134,21888,32154,3384,28770
+19-20,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",20302,1391,18912,25022,1147,23875,32154,1050,31104
+19-20,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",20302,277,20026,25022,0,25022,32154,377,31777
+20-21,4-year,Students awarded any grant aid,All family income levels,20395.12,7821.87,12573.25,43771.75,21009.63,22762.13,31098.28,7078.09,24020.19
+20-21,4-year,Students awarded Title IV aid,All family income levels,20495.6,8065,12430.6,43975.5,21908.56,22066.95,31171.85,6574.54,24597.31
+20-21,4-year,Students awarded Title IV aid,"$0-30,000",20495.6,11401.29,9094.32,43975.5,26783.92,17191.58,31171.85,7933.18,23238.67
+20-21,4-year,Students awarded Title IV aid,"$30,001-48,000",20495.6,10460.03,10035.57,43975.5,26999.52,16975.98,31171.85,7643.84,23528.01
+20-21,4-year,Students awarded Title IV aid,"$48,001-75,000",20495.6,7566.68,12928.92,43975.5,25007.95,18967.56,31171.85,6404.47,24767.38
+20-21,4-year,Students awarded Title IV aid,"$75,001-110,000",20495.6,4387.05,16108.55,43975.5,22072.15,21903.35,31171.85,3805.69,27366.16
+20-21,4-year,Students awarded Title IV aid,"$110,001 and more",20495.6,2771.93,17723.67,43975.5,18361.97,25613.53,31171.85,3256.5,27915.35
+20-21,2-year,Students awarded any grant aid,All family income levels,13500.32,5443.36,8056.95,27263.33,7515.79,19747.54,27827.54,6140.74,21686.8
+20-21,2-year,Students awarded Title IV aid,All family income levels,13702.37,6195.88,7506.5,27107.19,6985.76,20121.43,27618.31,5433.27,22185.05
+20-21,2-year,Students awarded Title IV aid,"$0-30,000",13702.37,7367.78,6334.59,27107.19,8939.97,18167.21,27618.31,6379.3,21239.02
+20-21,2-year,Students awarded Title IV aid,"$30,001-48,000",13702.37,6757.7,6944.68,27107.19,8002.16,19105.03,27618.31,5866.79,21751.52
+20-21,2-year,Students awarded Title IV aid,"$48,001-75,000",13702.37,4679.25,9023.13,27107.19,6559.12,20548.07,27618.31,4150.89,23467.43
+20-21,2-year,Students awarded Title IV aid,"$75,001-110,000",13702.37,2637.06,11065.31,27107.19,4851.27,22255.92,27618.31,1440.5,26177.81
+20-21,2-year,Students awarded Title IV aid,"$110,001 and more",13702.37,1427.9,12274.47,27107.19,3322.21,23784.98,27618.31,835.88,26782.44
+20-21,Less-than-2-year,Students awarded any grant aid,All family income levels,19432.2,5639.53,13792.67,25154.25,5793.5,19360.75,32544.9,6080.6,26464.3
+20-21,Less-than-2-year,Students awarded Title IV aid,All family income levels,19694.93,5416.33,14278.6,25154.25,5910.25,19244,32505.2,5597.6,26907.6
+20-21,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",19694.93,6125.43,13569.5,25154.25,6114.67,19039.58,32505.2,5996.65,26508.55
+20-21,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",19694.93,5070,14624.93,25154.25,6189,18965.25,32505.2,5727.91,26777.29
+20-21,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",19694.93,3192.78,16502.16,25154.25,3650.5,21503.75,32505.2,3839,28666.2
+20-21,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",19694.93,2914.17,16780.77,25154.25,0,25154.25,32505.2,1432,31073.2
+20-21,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",19694.93,2560,17134.93,25154.25,0,25154.25,32505.2,620.25,31884.95
+21-22,4-year,Students awarded any grant aid,All family income levels,21240,8089,13151,45120,21711,23409,33215,6787,26427
+21-22,4-year,Students awarded Title IV aid,All family income levels,21361,8376,12985,45141,22475,22666,33436,6338,27098
+21-22,4-year,Students awarded Title IV aid,"$0-30,000",21361,12004,9357,45141,27828,17313,33436,7511,25925
+21-22,4-year,Students awarded Title IV aid,"$30,001-48,000",21361,11035,10326,45141,28285,16856,33436,7700,25736
+21-22,4-year,Students awarded Title IV aid,"$48,001-75,000",21361,8251,13110,45141,25753,19388,33436,6175,27262
+21-22,4-year,Students awarded Title IV aid,"$75,001-110,000",21361,4879,16482,45141,22987,22153,33436,3788,29648
+21-22,4-year,Students awarded Title IV aid,"$110,001 and more",21361,3060,18301,45141,19289,25852,33436,3206,30230
+21-22,2-year,Students awarded any grant aid,All family income levels,13744,5697,8047,28530,7937,20593,28632,6155,22477
+21-22,2-year,Students awarded Title IV aid,All family income levels,13925,6416,7509,28912,7624,21288,28458,5341,23117
+21-22,2-year,Students awarded Title IV aid,"$0-30,000",13925,7628,6297,28912,9583,19329,28458,6337,22121
+21-22,2-year,Students awarded Title IV aid,"$30,001-48,000",13925,7003,6922,28912,10026,18886,28458,5577,22881
+21-22,2-year,Students awarded Title IV aid,"$48,001-75,000",13925,5105,8820,28912,8125,20787,28458,4366,24091
+21-22,2-year,Students awarded Title IV aid,"$75,001-110,000",13925,3126,10799,28912,4916,23996,28458,1762,26695
+21-22,2-year,Students awarded Title IV aid,"$110,001 and more",13925,1914,12010,28912,3555,25357,28458,721,27737
+21-22,Less-than-2-year,Students awarded any grant aid,All family income levels,20490,6473,14017,24690,5212,19478,34508,5728,28780
+21-22,Less-than-2-year,Students awarded Title IV aid,All family income levels,20188,6023,14165,24809,4989,19820,34135,5076,29058
+21-22,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",20188,6491,13697,24809,4110,20699,34135,5558,28577
+21-22,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",20188,5646,14542,24809,6183,18626,34135,5010,29125
+21-22,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",20188,5341,14847,24809,3933,20876,34135,3740,30394
+21-22,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",20188,4694,15494,24809,3205,21604,34135,886,33249
+21-22,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",20188,2612,17576,24809,2494,22315,34135,255,33879
+22-23,4-year,Students awarded any grant aid,All family income levels,21843,8645,13198,46668,22750,23918,34041,6972,27070
+22-23,4-year,Students awarded Title IV aid,All family income levels,21948,8947,13001,46806,23690,23116,34109,6239,27870
+22-23,4-year,Students awarded Title IV aid,"$0-30,000",21948,12672,9276,46806,29405,17401,34109,7528,26581
+22-23,4-year,Students awarded Title IV aid,"$30,001-48,000",21948,11811,10137,46806,29385,17422,34109,7190,26918
+22-23,4-year,Students awarded Title IV aid,"$48,001-75,000",21948,8965,12983,46806,27182,19625,34109,5729,28380
+22-23,4-year,Students awarded Title IV aid,"$75,001-110,000",21948,5369,16579,46806,24184,22623,34109,3555,30554
+22-23,4-year,Students awarded Title IV aid,"$110,001 and more",21948,3201,18747,46806,20270,26536,34109,3235,30874
+22-23,2-year,Students awarded any grant aid,All family income levels,14276,6197,8079,30277,8203,22075,29881,6570,23311
+22-23,2-year,Students awarded Title IV aid,All family income levels,14444,6929,7514,30235,8039,22196,29463,5773,23690
+22-23,2-year,Students awarded Title IV aid,"$0-30,000",14444,8270,6174,30235,10016,20218,29463,7112,22351
+22-23,2-year,Students awarded Title IV aid,"$30,001-48,000",14444,7643,6801,30235,10311,19924,29463,6625,22838
+22-23,2-year,Students awarded Title IV aid,"$48,001-75,000",14444,5564,8879,30235,8174,22061,29463,4364,25098
+22-23,2-year,Students awarded Title IV aid,"$75,001-110,000",14444,3359,11084,30235,7601,22634,29463,2001,27462
+22-23,2-year,Students awarded Title IV aid,"$110,001 and more",14444,2045,12399,30235,4806,25429,29463,995,28467
+22-23,Less-than-2-year,Students awarded any grant aid,All family income levels,22032,6058,15974,33453,8114,25339,32601,5533,27068
+22-23,Less-than-2-year,Students awarded Title IV aid,All family income levels,23448,6776,16672,23769,3495,20275,32035,5514,26521
+22-23,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",23448,7419,16029,23769,4949,18821,32035,5882,26153
+22-23,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",23448,5356,18091,23769,14592,9177,32035,6367,25668
+22-23,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",23448,5138,18310,23769,1584,22185,32035,4465,27571
+22-23,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",23448,1804,21643,23769,8300,15469,32035,2679,29356
+22-23,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",23448,2669,20779,23769,5830,17939,32035,609,31426
+23-24,4-year,Students awarded any grant aid,All family income levels,22724,9308,13416,48690,24237,24453,36073,7509,28564
+23-24,4-year,Students awarded Title IV aid,All family income levels,22799,9790,13009,48826,25187,23638,36045,7038,29007
+23-24,4-year,Students awarded Title IV aid,"$0-30,000",22799,13376,9423,48826,30833,17993,36045,8373,27672
+23-24,4-year,Students awarded Title IV aid,"$30,001-48,000",22799,12841,9959,48826,31280,17545,36045,7756,28289
+23-24,4-year,Students awarded Title IV aid,"$48,001-75,000",22799,10305,12495,48826,29566,19259,36045,6465,29580
+23-24,4-year,Students awarded Title IV aid,"$75,001-110,000",22799,6801,15998,48826,26736,22089,36045,4547,31498
+23-24,4-year,Students awarded Title IV aid,"$110,001 and more",22799,3662,19138,48826,21626,27199,36045,2775,33270
+23-24,2-year,Students awarded any grant aid,All family income levels,15203,6678,8524,31895,9231,22664,31587,7227,24359
+23-24,2-year,Students awarded Title IV aid,All family income levels,15440,7476,7964,32139,8958,23180,31352,6335,25016
+23-24,2-year,Students awarded Title IV aid,"$0-30,000",15440,8749,6691,32139,10682,21457,31352,7490,23862
+23-24,2-year,Students awarded Title IV aid,"$30,001-48,000",15440,8394,7046,32139,10452,21686,31352,6987,24364
+23-24,2-year,Students awarded Title IV aid,"$48,001-75,000",15440,6423,9017,32139,8579,23559,31352,5287,26065
+23-24,2-year,Students awarded Title IV aid,"$75,001-110,000",15440,4162,11278,32139,7062,25076,31352,3598,27753
+23-24,2-year,Students awarded Title IV aid,"$110,001 and more",15440,2260,13180,32139,4043,28095,31352,1558,29794
+23-24,Less-than-2-year,Students awarded any grant aid,All family income levels,24738,5849,18889,33646,15135,18511,30494,5306,25188
+23-24,Less-than-2-year,Students awarded Title IV aid,All family income levels,24922,6196,18726,27129,5946,21183,30535,5107,25427
+23-24,Less-than-2-year,Students awarded Title IV aid,"$0-30,000",24922,7053,17869,27129,15755,11374,30535,5398,25137
+23-24,Less-than-2-year,Students awarded Title IV aid,"$30,001-48,000",24922,5621,19301,27129,11684,15445,30535,5709,24826
+23-24,Less-than-2-year,Students awarded Title IV aid,"$48,001-75,000",24922,6164,18758,27129,10509,16620,30535,3944,26590
+23-24,Less-than-2-year,Students awarded Title IV aid,"$75,001-110,000",24922,3726,21196,27129,5189,21940,30535,2122,28412
+23-24,Less-than-2-year,Students awarded Title IV aid,"$110,001 and more",24922,1598,23324,27129,3434,23695,30535,1698,28837

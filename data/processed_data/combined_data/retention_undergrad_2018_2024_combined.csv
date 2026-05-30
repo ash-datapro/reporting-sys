@@ -1,0 +1,241 @@
+Year,Level of institution,Degree-granting status,Control of institution,Enrollment status,Adjusted cohort,Still enrolled,Retention rate
+18-19,4-year,All institutions,All institutions,Full-time,1552952,1257806,81
+18-19,4-year,All institutions,All institutions,Part-time,50249,24708,49.2
+18-19,4-year,All institutions,Public,Full-time,1041528,845962,81.2
+18-19,4-year,All institutions,Public,Part-time,29463,16153,54.8
+18-19,4-year,All institutions,Private nonprofit,Full-time,495012,402044,81.2
+18-19,4-year,All institutions,Private nonprofit,Part-time,13352,5755,43.1
+18-19,4-year,All institutions,Private for-profit,Full-time,16412,9800,59.7
+18-19,4-year,All institutions,Private for-profit,Part-time,7434,2800,37.7
+18-19,2-year,All institutions,All institutions,Full-time,652011,408375,62.6
+18-19,2-year,All institutions,All institutions,Part-time,360324,162547,45.1
+18-19,2-year,All institutions,Public,Full-time,596798,370435,62.1
+18-19,2-year,All institutions,Public,Part-time,356242,160366,45
+18-19,2-year,All institutions,Private nonprofit,Full-time,11497,8303,72.2
+18-19,2-year,All institutions,Private nonprofit,Part-time,551,213,38.7
+18-19,2-year,All institutions,Private for-profit,Full-time,43716,29637,67.8
+18-19,2-year,All institutions,Private for-profit,Part-time,3531,1968,55.7
+18-19,2-year,Degree-granting,All institutions,Full-time,627048,390757,62.3
+18-19,2-year,Degree-granting,All institutions,Part-time,353161,157965,44.7
+18-19,2-year,Degree-granting,Public,Full-time,582729,360869,61.9
+18-19,2-year,Degree-granting,Public,Part-time,350307,156570,44.7
+18-19,2-year,Degree-granting,Private nonprofit,Full-time,10737,7712,71.8
+18-19,2-year,Degree-granting,Private nonprofit,Part-time,546,210,38.5
+18-19,2-year,Degree-granting,Private for-profit,Full-time,33582,22176,66
+18-19,2-year,Degree-granting,Private for-profit,Part-time,2308,1185,51.3
+18-19,2-year,Non-degree-granting,All institutions,Full-time,24963,17618,70.6
+18-19,2-year,Non-degree-granting,All institutions,Part-time,7163,4582,64
+18-19,2-year,Non-degree-granting,Public,Full-time,14069,9566,68
+18-19,2-year,Non-degree-granting,Public,Part-time,5935,3796,64
+18-19,2-year,Non-degree-granting,Private nonprofit,Full-time,760,591,77.8
+18-19,2-year,Non-degree-granting,Private nonprofit,Part-time,5,3,60
+18-19,2-year,Non-degree-granting,Private for-profit,Full-time,10134,7461,73.6
+18-19,2-year,Non-degree-granting,Private for-profit,Part-time,1223,783,64
+18-19,Less-than-2-year,All institutions,All institutions,Full-time,62040,44988,72.5
+18-19,Less-than-2-year,All institutions,All institutions,Part-time,14773,10406,70.4
+18-19,Less-than-2-year,All institutions,Public,Full-time,10247,6940,67.7
+18-19,Less-than-2-year,All institutions,Public,Part-time,5928,4180,70.5
+18-19,Less-than-2-year,All institutions,Private nonprofit,Full-time,2451,1996,81.4
+18-19,Less-than-2-year,All institutions,Private nonprofit,Part-time,8,6,75
+18-19,Less-than-2-year,All institutions,Private for-profit,Full-time,49342,36052,73.1
+18-19,Less-than-2-year,All institutions,Private for-profit,Part-time,8837,6220,70.4
+19-20,4-year,All institutions,All institutions,Full-time,1574897,1280145,81.3
+19-20,4-year,All institutions,All institutions,Part-time,48795,23959,49.1
+19-20,4-year,All institutions,Public,Full-time,1058064,861864,81.5
+19-20,4-year,All institutions,Public,Part-time,29077,15578,53.6
+19-20,4-year,All institutions,Private nonprofit,Full-time,501087,408385,81.5
+19-20,4-year,All institutions,Private nonprofit,Part-time,11648,5123,44
+19-20,4-year,All institutions,Private for-profit,Full-time,15746,9896,62.8
+19-20,4-year,All institutions,Private for-profit,Part-time,8070,3258,40.4
+19-20,2-year,All institutions,All institutions,Full-time,637080,403128,63.3
+19-20,2-year,All institutions,All institutions,Part-time,339191,152076,44.8
+19-20,2-year,All institutions,Public,Full-time,584135,365922,62.6
+19-20,2-year,All institutions,Public,Part-time,335852,150183,44.7
+19-20,2-year,All institutions,Private nonprofit,Full-time,11503,8600,74.8
+19-20,2-year,All institutions,Private nonprofit,Part-time,652,232,35.6
+19-20,2-year,All institutions,Private for-profit,Full-time,41442,28606,69
+19-20,2-year,All institutions,Private for-profit,Part-time,2687,1661,61.8
+19-20,2-year,Degree-granting,All institutions,Full-time,613816,386855,63
+19-20,2-year,Degree-granting,All institutions,Part-time,332804,147611,44.4
+19-20,2-year,Degree-granting,Public,Full-time,570925,356964,62.5
+19-20,2-year,Degree-granting,Public,Part-time,330531,146427,44.3
+19-20,2-year,Degree-granting,Private nonprofit,Full-time,10580,7817,73.9
+19-20,2-year,Degree-granting,Private nonprofit,Part-time,641,227,35.4
+19-20,2-year,Degree-granting,Private for-profit,Full-time,32311,22074,68.3
+19-20,2-year,Degree-granting,Private for-profit,Part-time,1632,957,58.6
+19-20,2-year,Non-degree-granting,All institutions,Full-time,23264,16273,69.9
+19-20,2-year,Non-degree-granting,All institutions,Part-time,6387,4465,69.9
+19-20,2-year,Non-degree-granting,Public,Full-time,13210,8958,67.8
+19-20,2-year,Non-degree-granting,Public,Part-time,5321,3756,70.6
+19-20,2-year,Non-degree-granting,Private nonprofit,Full-time,923,783,84.8
+19-20,2-year,Non-degree-granting,Private nonprofit,Part-time,11,5,45.5
+19-20,2-year,Non-degree-granting,Private for-profit,Full-time,9131,6532,71.5
+19-20,2-year,Non-degree-granting,Private for-profit,Part-time,1055,704,66.7
+19-20,Less-than-2-year,All institutions,All institutions,Full-time,61083,45307,74.2
+19-20,Less-than-2-year,All institutions,All institutions,Part-time,17246,12231,70.9
+19-20,Less-than-2-year,All institutions,Public,Full-time,10555,7301,69.2
+19-20,Less-than-2-year,All institutions,Public,Part-time,7786,5573,71.6
+19-20,Less-than-2-year,All institutions,Private nonprofit,Full-time,2124,1655,77.9
+19-20,Less-than-2-year,All institutions,Private nonprofit,Part-time,3,2,66.7
+19-20,Less-than-2-year,All institutions,Private for-profit,Full-time,48404,36351,75.1
+19-20,Less-than-2-year,All institutions,Private for-profit,Part-time,9457,6656,70.4
+20-21,4-year,All institutions,All institutions,Full-time,1566966,1278034,81.6
+20-21,4-year,All institutions,All institutions,Part-time,57265,28487,49.7
+20-21,4-year,All institutions,Public,Full-time,1058951,872668,82.4
+20-21,4-year,All institutions,Public,Part-time,35608,19202,53.9
+20-21,4-year,All institutions,Private nonprofit,Full-time,488071,392874,80.5
+20-21,4-year,All institutions,Private nonprofit,Part-time,12502,5571,44.6
+20-21,4-year,All institutions,Private for-profit,Full-time,19944,12492,62.6
+20-21,4-year,All institutions,Private for-profit,Part-time,9155,3714,40.6
+20-21,2-year,All institutions,All institutions,Full-time,625947,384499,61.4
+20-21,2-year,All institutions,All institutions,Part-time,321432,131450,40.9
+20-21,2-year,All institutions,Public,Full-time,571526,347519,60.8
+20-21,2-year,All institutions,Public,Part-time,318302,129627,40.7
+20-21,2-year,All institutions,Private nonprofit,Full-time,12099,8105,67
+20-21,2-year,All institutions,Private nonprofit,Part-time,460,182,39.6
+20-21,2-year,All institutions,Private for-profit,Full-time,42322,28875,68.2
+20-21,2-year,All institutions,Private for-profit,Part-time,2670,1641,61.5
+20-21,2-year,Degree-granting,All institutions,Full-time,604806,369651,61.1
+20-21,2-year,Degree-granting,All institutions,Part-time,316487,128071,40.5
+20-21,2-year,Degree-granting,Public,Full-time,560549,339978,60.7
+20-21,2-year,Degree-granting,Public,Part-time,314340,126958,40.4
+20-21,2-year,Degree-granting,Private nonprofit,Full-time,11002,7264,66
+20-21,2-year,Degree-granting,Private nonprofit,Part-time,454,177,39
+20-21,2-year,Degree-granting,Private for-profit,Full-time,33255,22409,67.4
+20-21,2-year,Degree-granting,Private for-profit,Part-time,1693,936,55.3
+20-21,2-year,Non-degree-granting,All institutions,Full-time,21141,14848,70.2
+20-21,2-year,Non-degree-granting,All institutions,Part-time,4945,3379,68.3
+20-21,2-year,Non-degree-granting,Public,Full-time,10977,7541,68.7
+20-21,2-year,Non-degree-granting,Public,Part-time,3962,2669,67.4
+20-21,2-year,Non-degree-granting,Private nonprofit,Full-time,1097,841,76.7
+20-21,2-year,Non-degree-granting,Private nonprofit,Part-time,6,5,83.3
+20-21,2-year,Non-degree-granting,Private for-profit,Full-time,9067,6466,71.3
+20-21,2-year,Non-degree-granting,Private for-profit,Part-time,977,705,72.2
+20-21,Less-than-2-year,All institutions,All institutions,Full-time,63081,45495,72.1
+20-21,Less-than-2-year,All institutions,All institutions,Part-time,17617,12598,71.5
+20-21,Less-than-2-year,All institutions,Public,Full-time,11130,7639,68.6
+20-21,Less-than-2-year,All institutions,Public,Part-time,9005,6532,72.5
+20-21,Less-than-2-year,All institutions,Private nonprofit,Full-time,2008,1591,79.2
+20-21,Less-than-2-year,All institutions,Private nonprofit,Part-time,12,6,50
+20-21,Less-than-2-year,All institutions,Private for-profit,Full-time,49943,36265,72.6
+20-21,Less-than-2-year,All institutions,Private for-profit,Part-time,8600,6060,70.5
+21-22,4-year,All institutions,All institutions,Full-time,1480319,1193578,80.6
+21-22,4-year,All institutions,All institutions,Part-time,64016,31256,48.8
+21-22,4-year,All institutions,Public,Full-time,1002316,809864,80.8
+21-22,4-year,All institutions,Public,Part-time,42008,22140,52.7
+21-22,4-year,All institutions,Private nonprofit,Full-time,457668,371176,81.1
+21-22,4-year,All institutions,Private nonprofit,Part-time,13963,5889,42.2
+21-22,4-year,All institutions,Private for-profit,Full-time,20335,12538,61.7
+21-22,4-year,All institutions,Private for-profit,Part-time,8045,3227,40.1
+21-22,2-year,All institutions,All institutions,Full-time,522860,321425,61.5
+21-22,2-year,All institutions,All institutions,Part-time,274230,116629,42.5
+21-22,2-year,All institutions,Public,Full-time,469217,287464,61.3
+21-22,2-year,All institutions,Public,Part-time,271204,114809,42.3
+21-22,2-year,All institutions,Private nonprofit,Full-time,7812,5233,67
+21-22,2-year,All institutions,Private nonprofit,Part-time,400,156,39
+21-22,2-year,All institutions,Private for-profit,Full-time,45831,28728,62.7
+21-22,2-year,All institutions,Private for-profit,Part-time,2626,1664,63.4
+21-22,2-year,Degree-granting,All institutions,Full-time,503834,308197,61.2
+21-22,2-year,Degree-granting,All institutions,Part-time,270286,113810,42.1
+21-22,2-year,Degree-granting,Public,Full-time,460067,281128,61.1
+21-22,2-year,Degree-granting,Public,Part-time,268373,112803,42
+21-22,2-year,Degree-granting,Private nonprofit,Full-time,6821,4459,65.4
+21-22,2-year,Degree-granting,Private nonprofit,Part-time,385,144,37.4
+21-22,2-year,Degree-granting,Private for-profit,Full-time,36946,22610,61.2
+21-22,2-year,Degree-granting,Private for-profit,Part-time,1528,863,56.5
+21-22,2-year,Non-degree-granting,All institutions,Full-time,19026,13228,69.5
+21-22,2-year,Non-degree-granting,All institutions,Part-time,3944,2819,71.5
+21-22,2-year,Non-degree-granting,Public,Full-time,9150,6336,69.2
+21-22,2-year,Non-degree-granting,Public,Part-time,2831,2006,70.9
+21-22,2-year,Non-degree-granting,Private nonprofit,Full-time,991,774,78.1
+21-22,2-year,Non-degree-granting,Private nonprofit,Part-time,15,12,80
+21-22,2-year,Non-degree-granting,Private for-profit,Full-time,8885,6118,68.9
+21-22,2-year,Non-degree-granting,Private for-profit,Part-time,1098,801,73
+21-22,Less-than-2-year,All institutions,All institutions,Full-time,59680,42936,71.9
+21-22,Less-than-2-year,All institutions,All institutions,Part-time,17597,11963,68
+21-22,Less-than-2-year,All institutions,Public,Full-time,9928,6991,70.4
+21-22,Less-than-2-year,All institutions,Public,Part-time,9199,6088,66.2
+21-22,Less-than-2-year,All institutions,Private nonprofit,Full-time,1924,1506,78.3
+21-22,Less-than-2-year,All institutions,Private nonprofit,Part-time,15,12,80
+21-22,Less-than-2-year,All institutions,Private for-profit,Full-time,47828,34439,72
+21-22,Less-than-2-year,All institutions,Private for-profit,Part-time,8383,5863,69.9
+22-23,4-year,All institutions,All institutions,Full-time,1542693,1249373,81
+22-23,4-year,All institutions,All institutions,Part-time,66445,32580,49
+22-23,4-year,All institutions,Public,Full-time,1036405,841608,81.2
+22-23,4-year,All institutions,Public,Part-time,43926,23013,52.4
+22-23,4-year,All institutions,Private nonprofit,Full-time,484606,394201,81.3
+22-23,4-year,All institutions,Private nonprofit,Part-time,14801,5952,40.2
+22-23,4-year,All institutions,Private for-profit,Full-time,21682,13564,62.6
+22-23,4-year,All institutions,Private for-profit,Part-time,7718,3615,46.8
+22-23,2-year,All institutions,All institutions,Full-time,496131,314848,63.5
+22-23,2-year,All institutions,All institutions,Part-time,282257,123181,43.6
+22-23,2-year,All institutions,Public,Full-time,445906,280346,62.9
+22-23,2-year,All institutions,Public,Part-time,279561,121405,43.4
+22-23,2-year,All institutions,Private nonprofit,Full-time,8091,5934,73.3
+22-23,2-year,All institutions,Private nonprofit,Part-time,374,182,48.7
+22-23,2-year,All institutions,Private for-profit,Full-time,42134,28568,67.8
+22-23,2-year,All institutions,Private for-profit,Part-time,2322,1594,68.6
+22-23,2-year,Degree-granting,All institutions,Full-time,476950,301354,63.2
+22-23,2-year,Degree-granting,All institutions,Part-time,277853,120390,43.3
+22-23,2-year,Degree-granting,Public,Full-time,434368,272625,62.8
+22-23,2-year,Degree-granting,Public,Part-time,275897,119173,43.2
+22-23,2-year,Degree-granting,Private nonprofit,Full-time,7114,5140,72.3
+22-23,2-year,Degree-granting,Private nonprofit,Part-time,358,171,47.8
+22-23,2-year,Degree-granting,Private for-profit,Full-time,35468,23589,66.5
+22-23,2-year,Degree-granting,Private for-profit,Part-time,1598,1046,65.5
+22-23,2-year,Non-degree-granting,All institutions,Full-time,19181,13494,70.4
+22-23,2-year,Non-degree-granting,All institutions,Part-time,4404,2791,63.4
+22-23,2-year,Non-degree-granting,Public,Full-time,11538,7721,66.9
+22-23,2-year,Non-degree-granting,Public,Part-time,3664,2232,60.9
+22-23,2-year,Non-degree-granting,Private nonprofit,Full-time,977,794,81.3
+22-23,2-year,Non-degree-granting,Private nonprofit,Part-time,16,11,68.8
+22-23,2-year,Non-degree-granting,Private for-profit,Full-time,6666,4979,74.7
+22-23,2-year,Non-degree-granting,Private for-profit,Part-time,724,548,75.7
+22-23,Less-than-2-year,All institutions,All institutions,Full-time,63198,46343,73.3
+22-23,Less-than-2-year,All institutions,All institutions,Part-time,17409,11986,68.8
+22-23,Less-than-2-year,All institutions,Public,Full-time,10237,7223,70.6
+22-23,Less-than-2-year,All institutions,Public,Part-time,8777,5674,64.6
+22-23,Less-than-2-year,All institutions,Private nonprofit,Full-time,1495,1096,73.3
+22-23,Less-than-2-year,All institutions,Private nonprofit,Part-time,7,7,100
+22-23,Less-than-2-year,All institutions,Private for-profit,Full-time,51466,38024,73.9
+22-23,Less-than-2-year,All institutions,Private for-profit,Part-time,8625,6305,73.1
+23-24,4-year,All institutions,All institutions,Full-time,1572961,1284894,81.7
+23-24,4-year,All institutions,All institutions,Part-time,67429,33385,49.5
+23-24,4-year,All institutions,Public,Full-time,1071147,879171,82.1
+23-24,4-year,All institutions,Public,Part-time,44886,24400,54.4
+23-24,4-year,All institutions,Private nonprofit,Full-time,477949,391102,81.8
+23-24,4-year,All institutions,Private nonprofit,Part-time,17144,6625,38.6
+23-24,4-year,All institutions,Private for-profit,Full-time,23865,14621,61.3
+23-24,4-year,All institutions,Private for-profit,Part-time,5399,2360,43.7
+23-24,2-year,All institutions,All institutions,Full-time,508867,331393,65.1
+23-24,2-year,All institutions,All institutions,Part-time,294487,130868,44.4
+23-24,2-year,All institutions,Public,Full-time,457374,294965,64.5
+23-24,2-year,All institutions,Public,Part-time,291193,128828,44.2
+23-24,2-year,All institutions,Private nonprofit,Full-time,8110,5943,73.3
+23-24,2-year,All institutions,Private nonprofit,Part-time,495,219,44.2
+23-24,2-year,All institutions,Private for-profit,Full-time,43383,30485,70.3
+23-24,2-year,All institutions,Private for-profit,Part-time,2799,1821,65.1
+23-24,2-year,Degree-granting,All institutions,Full-time,489044,317616,64.9
+23-24,2-year,Degree-granting,All institutions,Part-time,289586,127475,44
+23-24,2-year,Degree-granting,Public,Full-time,445789,287442,64.5
+23-24,2-year,Degree-granting,Public,Part-time,287056,126031,43.9
+23-24,2-year,Degree-granting,Private nonprofit,Full-time,7017,5064,72.2
+23-24,2-year,Degree-granting,Private nonprofit,Part-time,477,210,44
+23-24,2-year,Degree-granting,Private for-profit,Full-time,36238,25110,69.3
+23-24,2-year,Degree-granting,Private for-profit,Part-time,2053,1234,60.1
+23-24,2-year,Non-degree-granting,All institutions,Full-time,19823,13777,69.5
+23-24,2-year,Non-degree-granting,All institutions,Part-time,4901,3393,69.2
+23-24,2-year,Non-degree-granting,Public,Full-time,11585,7523,64.9
+23-24,2-year,Non-degree-granting,Public,Part-time,4137,2797,67.6
+23-24,2-year,Non-degree-granting,Private nonprofit,Full-time,1093,879,80.4
+23-24,2-year,Non-degree-granting,Private nonprofit,Part-time,18,9,50
+23-24,2-year,Non-degree-granting,Private for-profit,Full-time,7145,5375,75.2
+23-24,2-year,Non-degree-granting,Private for-profit,Part-time,746,587,78.7
+23-24,Less-than-2-year,All institutions,All institutions,Full-time,61679,45261,73.4
+23-24,Less-than-2-year,All institutions,All institutions,Part-time,19293,12997,67.4
+23-24,Less-than-2-year,All institutions,Public,Full-time,10854,7073,65.2
+23-24,Less-than-2-year,All institutions,Public,Part-time,9809,6110,62.3
+23-24,Less-than-2-year,All institutions,Private nonprofit,Full-time,1830,1382,75.5
+23-24,Less-than-2-year,All institutions,Private nonprofit,Part-time,21,15,71.4
+23-24,Less-than-2-year,All institutions,Private for-profit,Full-time,48995,36806,75.1
+23-24,Less-than-2-year,All institutions,Private for-profit,Part-time,9463,6872,72.6
