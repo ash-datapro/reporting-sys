@@ -1,5 +1,11 @@
 # Student Success Analytics & Reporting Pipeline
 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=databricks\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![IPEDS](https://img.shields.io/badge/Data_Source-IPEDS-1F4E79?style=for-the-badge)
+
 A reproducible higher-education reporting system built with **R, PostgreSQL/SQL, and Tableau** to transform public NCES/IPEDS reporting data into validated metrics, executive-facing dashboards, quality-assurance scorecards, and a stakeholder-ready reporting brief.
 
 This project was designed to reflect institutional research and university data analyst work: combining multiple reporting tables, validating published measures, documenting data-quality limitations, creating reusable SQL reporting views, and communicating usable metrics to nontechnical decision-makers.
